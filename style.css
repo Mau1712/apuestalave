@@ -1,0 +1,36 @@
+.navbar {
+    background-color: #050A30 !important;
+    padding-block: 20px;
+    border-bottom: solid 1px white !important;
+}
+
+.nav-link {
+    color: white;
+}
+
+.nav-link:hover {
+    color: #bcbebe;
+}
+
+.navbar .nav-link:focus {
+    color: #8d8f8f;
+}
+
+header {
+    height: 87vh;
+}
+
+swiper-container {
+    width: 100%;
+    height: 100%;
+}
+
+swiper-slide {
+    text-align: center;
+    font-size: 18px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+
+}
